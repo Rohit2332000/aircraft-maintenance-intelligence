@@ -1,14 +1,17 @@
-fastapi
-uvicorn[standard]
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
 
-pandas
-numpy
-openpyxl
+pandas==2.3.2
+numpy==1.26.4
+openpyxl==3.1.5
+xlrd==2.0.1
 
-python-dotenv
-pydantic
+python-multipart==0.0.20
 
-langchain
-langchain-core
-langchain-groq
-langgraph
+python-dotenv==1.1.1
+pydantic==2.11.7
+
+langchain==0.3.27
+langchain-core==0.3.74
+langchain-groq==0.3.7
+langgraph==0.6.6
