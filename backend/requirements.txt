@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+
+pandas
+numpy
+openpyxl
+
+python-dotenv
+pydantic
+
+langchain
+langchain-core
+langchain-groq
+langgraph
