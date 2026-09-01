@@ -25,6 +25,8 @@ OUTPUT_DIR = BASE_DIR / "outputs"
 # DATA FILES
 # ============================================================
 
+# Optional local development dataset.
+# The production API receives the Excel file through UploadFile.
 EXCEL_FILE = DATA_DIR / "aircraft_maintenance_intelligence_dataset.xlsx"
 
 
@@ -64,16 +66,6 @@ Z_SCORE_THRESHOLD = float(
         "3.0"
     )
 )
-
-
-# ============================================================
-# VALIDATION
-# ============================================================
-
-if not EXCEL_FILE.exists():
-    raise FileNotFoundError(
-        f"Excel dataset not found: {EXCEL_FILE}"
-    )
 
 
 # ============================================================
