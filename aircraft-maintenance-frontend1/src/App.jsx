@@ -40,7 +40,7 @@ import {
   YAxis
 } from "recharts";
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+const API_BASE = import.meta.env.VITE_API_BASE_URL || "https://aircraft-maintenance-intelligence.onrender.com";
 
 const statusOrder = { CRITICAL: 0, WARNING: 1, NORMAL: 2, UNKNOWN: 3 };
 
