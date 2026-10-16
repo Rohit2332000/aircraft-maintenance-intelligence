@@ -12,6 +12,21 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Analytics-150458?logo=pandas&logoColor=white)
 
 ---
+<img width="938" height="787" alt="Screenshot_17-10-2026_13530_drive google com" src="https://github.com/user-attachments/assets/b7dd761c-90d7-4135-a464-0708ca91ac68" />
+
+
+<img width="1916" height="893" alt="Screenshot_17-10-2026_13644_drive google com" src="https://github.com/user-attachments/assets/ad6751ad-546f-4318-9789-545853d8fb34" />
+
+
+
+<img width="884" height="900" alt="Screenshot_17-10-2026_13710_drive google com" src="https://github.com/user-attachments/assets/04fb6cdd-4520-4834-809c-4c852e912f14" />
+
+
+
+
+<img width="1919" height="937" alt="Screenshot_17-10-2026_13729_drive google com" src="https://github.com/user-attachments/assets/76888094-36f3-4034-8d20-dcd28eff9b53" />
+
+
 
 ## 🚀 Overview
 
