@@ -1174,6 +1174,9 @@ Repository:
 
 https://github.com/Rohit2332000/aircraft-maintenance-intelligence
 
+Live link:
+https://aircraft-maintenance-intelligence.vercel.app/
+
 ---
 
 # 📄 License
